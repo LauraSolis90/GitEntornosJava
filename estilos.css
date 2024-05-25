@@ -1,0 +1,10 @@
+/* Establece el color de fondo para todo el cuerpo de la página */
+body {
+    background-color: lightblue;
+}
+
+/* Cambia el color del texto de los encabezados <h1> a blanco y los centra */
+h1 {
+    color: white;
+    text-align: center;
+}
